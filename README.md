@@ -1,4 +1,4 @@
-![alt text]: [https://github.com/FIKRI-Mehdi/Netflix_SQL_Project/blob/main/logo.png]
+[logo]: https://github.com/FIKRI-Mehdi/Netflix_SQL_Project/blob/main/logo.png "Logo Title Text 2"
 📊 Netflix Data Analysis with SQL
 Overview
 This project involves a comprehensive analysis of Netflix's Movies and TV Shows dataset using SQL. The goal is to extract valuable insights and answer key business questions that provide a deeper understanding of Netflix's content offerings.
